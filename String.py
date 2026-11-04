@@ -25,7 +25,7 @@ print(course.lower())  #this is a methode as this belongs to specific function
 print(course.find('e'))  #this is a methode as this belongs to specific function
 print(course.replace('e', 's'))  #this is a methode as this belongs to specific function
 
-print('Python' in course)
+print('Python' in course)# This is used to find character/word in the text
 
 
 
